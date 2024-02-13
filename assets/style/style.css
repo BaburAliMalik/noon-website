@@ -1,0 +1,169 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* * {
+
+
+} */
+
+.container-1{
+    display: flex;
+    justify-content: space-between;
+    background-color: rgb(255, 255, 0);
+     /* padding: -10px 0px 0px 0px; */
+        text-decoration: none; 
+        width: 100%;
+        cursor: pointer;
+        
+
+}
+
+/* .noon-icon{
+    /* justify-content: space-between; */
+/* } */ */
+
+input{
+    width: 600px;
+    height: 36px;
+    padding: 12px;
+    box-sizing: border-box;
+    border-radius: 10px;
+    
+                
+}
+#categories{
+    display: flex;
+    justify-content: space-between; 
+    padding: px; 
+    /* border: 12px ; */
+}
+.ALL-CATEGORIES{
+    /* color: rgb(56, 102, 223);
+        width: 116px; */
+        /* box-sizing: border-box; */
+        /* height: 20px; */
+
+        /* display: block; */
+        cursor: pointer;
+        width: 216px;
+        margin-left: 10px;
+        text-transform: uppercase;
+        padding: 0px 15px;
+        min-height: 44px;
+        letter-spacing: 0.2px;
+        font-weight: 700;
+        display: flex;
+        -webkit-box-pack: justify;
+        justify-content: space-between;
+        -webkit-box-align: center;
+        align-items: center;
+        border-right: 1px solid rgb(226, 229, 241);
+        color: rgb(56, 102, 223);
+    }
+
+    .ELECTRONICS{
+        display: flex;
+        -webkit-box-align: center;
+        align-items: center;
+        text-transform: uppercase;
+        padding: 0px 15px;
+        min-height: 44px;
+        letter-spacing: 0.2px;
+        font-weight: 700;
+    }
+.men-1{
+    display: flex;
+    -webkit-box-align: center;
+    align-items: center;
+    text-transform: uppercase;
+    padding: 0px 15px;
+    min-height: 44px;
+    letter-spacing: 0.2px;
+    font-weight: 700;
+}
+#WOMEN-1{
+    display: flex;
+    -webkit-box-align: center;
+    align-items: center;
+    text-transform: uppercase;
+    padding: 0px 15px;
+    min-height: 44px;
+    letter-spacing: 0.2px;
+    font-weight: 700;
+}
+
+#home{
+    display: flex;
+    -webkit-box-align: center;
+    align-items: center;
+    text-transform: uppercase;
+    padding: 0px 15px;
+    min-height: 44px;
+    letter-spacing: 0.2px;
+    font-weight: 700;
+}
+#beauty{
+    display: flex;
+    -webkit-box-align: center;
+    align-items: center;
+    text-transform: uppercase;
+    padding: 0px 15px;
+    min-height: 44px;
+    letter-spacing: 0.2px;
+    font-weight: 700;
+}
+
+#baby{
+    display: flex;
+    -webkit-box-align: center;
+    align-items: center;
+    text-transform: uppercase;
+    padding: 0px 15px;
+    min-height: 44px;
+    letter-spacing: 0.2px;
+    font-weight: 700;
+}
+#toys{
+    display: flex;
+    -webkit-box-align: center;
+    align-items: center;
+    text-transform: uppercase;
+    padding: 0px 15px;
+    min-height: 44px;
+    letter-spacing: 0.2px;
+    font-weight: 700;
+}
+#sports{
+    display: flex;
+    -webkit-box-align: center;
+    align-items: center;
+    text-transform: uppercase;
+    padding: 0px 15px;
+    min-height: 44px;
+    letter-spacing: 0.2px;
+    font-weight: 700;
+}
+#health{display: flex;
+    -webkit-box-align: center;
+    align-items: center;
+    text-transform: uppercase;
+    padding: 0px 15px;
+    min-height: 44px;
+    letter-spacing: 0.2px;
+    font-weight: 700;}
+
+#carouselExampleIndicators{
+     width: 970px;
+    height: 204px;
+    /* width: 30%; */
+
+}  
+
+.women-men-1{
+    width: 970px;
+    height: 204px;
+
+}
